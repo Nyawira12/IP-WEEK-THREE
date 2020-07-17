@@ -6,7 +6,9 @@ Lilian Nyawira
 
 
 Independent Project
+
 The program analyses data from Communication companies to determine their busiest and most popular products. The information is useful in strategic decsion making such as prioritising which areas need upgraded technology. 
+The user ca manipulate the available data sets to produce information that would answer related research questions.
 
 License Info
 MIT License
