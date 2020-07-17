@@ -1,7 +1,9 @@
 # Week Three IP
- Independent Project
-Author
+Independent Project
+# Author
 Lilian Nyawira
+
+
 
 Independent Project
 The program analyses data from Communication companies to determine their busiest and most popular products. The information is useful in strategic decsion making such as prioritising which areas need upgraded technology. 
